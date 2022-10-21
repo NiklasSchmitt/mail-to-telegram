@@ -10,7 +10,7 @@ original source: https://git.hack-hro.de/oyla/mail-to-telegram-bot/-/tree/master
 
 - `apt install python3 python3-python-telegram-bot`
 - Use [BotFather](https://t.me/botfather) to create your new bot and get your bot token
-- `cp mail-to-telegram-bot.json.example mail-to-telegram-bot.json`, then set your configurations
+- set your configurations in `mail-to-telegram-bot.json`
 - Run with `python3 mail-to-telegram-bot.py`
 - Invite your bot to your channel, or talk directly to her in Telegram. 
 - Get the ID of your chat with `/chatid`. Insert it to your configuration, so the bot just talks to your allowed chat.

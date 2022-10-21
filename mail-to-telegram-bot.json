@@ -1,0 +1,8 @@
+{
+  "imap_host": "",
+  "imap_username": "",
+  "imap_password": "",
+  "imap_poll_interval": 2,
+  "telegram_token": "",
+  "telegram_chat_id": ""
+}
